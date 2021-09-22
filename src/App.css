@@ -1,0 +1,40 @@
+
+h1{
+  text-align:center;
+}
+.box1{
+  border:1px solid black;
+  box-shadow:1px 1px 0.5px black;
+  border-radius:10px;
+  width:500px;
+  padding:30px;
+  position:relative;
+  top:100px;
+  margin:0 auto;
+}
+.l1{
+ color:black;
+ font-weight:bold;
+ font-size: large;
+}
+.input{
+  width:200px;
+  height:40px;
+  border-radius: 10px;
+  background-color: transparent;
+  position:relative;
+  left:130px;
+  outline:none;
+
+}
+.input::placeholder{
+  text-align: center;
+
+}
+.btn{
+  position:relative;
+  left:196px;
+  background-color: rgb(116, 116, 255);
+  border-radius: 20px;
+  padding:8px;
+}

@@ -1,0 +1,19 @@
+.verify{
+    border:1px solid black;
+    padding: 20px;
+    width:600px;
+    height:80px;
+    margin:0 auto;
+    border-radius:10px;
+}
+.inputs{
+    position:relative;
+    left:230px;
+}
+.btns{
+  position:relative;
+  top:40px;
+  left:110px;
+  background-color:rgb(139, 139, 243);
+  border-radius: 10px;
+}
